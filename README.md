@@ -26,6 +26,7 @@ Builds the app for production to the `build` folder.
       API: Axios
       Routing: React Router v6
       Testing: Jest, React Testing Library
+      Design System: MaterialUI
 ```
 
 ### Folder Structure
@@ -45,4 +46,14 @@ Builds the app for production to the `build` folder.
         |- Page.js
         |- Page.css
         |- Page.test.js
+```
+### Current Support
+
+```
+  1. Support for multiple url's.
+  2. Fetching data from endpoint (collection period, LCP, INP, CLS, TTFB)
+  3. Loading spinner when the data is getting fetched from API.
+  4. Search button is disabled when the input is empty.
+  5. Table supports searching and sorting functionality according to thresholds as well.
+  6. Table pagination support provided. 
 ```
