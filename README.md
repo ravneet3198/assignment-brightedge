@@ -54,17 +54,18 @@ Builds the app for production to the `build` folder.
   2. Fetching data from endpoint (collection period, LCP, INP, CLS, TTFB)
   3. Loading spinner when the data is getting fetched from API.
   4. In case of error proper error getting diplayed as a snackbar notification.
-  4. Search button is disabled when the input is empty.
-  5. Table supports searching and sorting functionality according to thresholds as well.
-  6. Table pagination support provided. 
+  5. Search button is disabled when the input is empty.
+  6. Table supports searching and sorting functionality according to thresholds as well.
+  7. Table pagination support provided. 
 ```
 ### Future Support
 
 ```
   1. Support for url validation on frontend.
-  2. Fetching more different metrics data from endpoint.
-  3. Data visualisation through different charting library according to histogram endpoints.
-  4. Test cases for different components.
+  2. Avg and sum of metrics row.
+  3. Fetching more different metrics data from endpoint.
+  4. Data visualisation through different charting library according to histogram endpoints.
+  5. Test cases for different components.
 ```
 ### Application Screenshots
 
